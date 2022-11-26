@@ -1,0 +1,35 @@
+body{
+	border:50px solid;
+}
+div{
+	width:600px;
+	background-color:white;
+	height:350px;
+	justify-content:center;
+	align-items:center;
+	margin:400px;
+}
+h1{
+	font-size:40px;
+	padding-left:50px;
+	padding-top:50px;
+}
+.bold{
+	border:6px solid;
+	border-radius:10px;
+}
+p{
+	font-size:20px;
+    width:400px;
+	padding-left:50px;
+	padding-top:5px;
+}
+.fa i{
+	font-size:50px;
+	padding-left:25px;
+	margin-top:10px;
+	color:blue;
+}
+.two{
+	padding-left:30px;
+}
